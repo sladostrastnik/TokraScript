@@ -9,7 +9,7 @@ All announcements related to the script will be posted in our discord community 
 **Loop**: very fast loop for multiple targets;  
 **Blobman**: *coming soon...*;  
 **Lag**: freeze others' gameplay feature;  
-**Auras**: 10+ player and ;  
+**Auras**: 10+ player and special auras;  
 **Decoys**: NPC following, jump, fling and possession;  
 **Bombs**: auto-spawn and loop explode players;  
 **ESP**: player models highlighting;  

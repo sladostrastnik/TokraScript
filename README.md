@@ -16,7 +16,7 @@ All announcements related to the script will be posted in our discord community 
 **Visual**: map's colors and graphics editor;  
 **Whitelist**: custom whitelist and friend list configuration;  
 **Interface**: advanced interface theme configuration;  
-**Misc**: beautiful wings, auto-farm, plot saver.  
+**Misc**: beautiful wings, auto-farm, plot saver and other.  
 
 
 # 📢 Socials

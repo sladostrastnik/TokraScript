@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/sladostrastnik/TokraScript/refs/heads/main/Loader.luau"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/180901asm/T0krAsCr-pt/refs/heads/main/Loader.lua"))()

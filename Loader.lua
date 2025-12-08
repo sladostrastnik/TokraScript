@@ -4,7 +4,7 @@ if not (Loadstring and HttpGet) then return end
 
 local Repository = "https://raw.githubusercontent.com/180901asm/T0krAsCr-pt/refs/heads/main/Games/"
 local PlaceId = tostring(game.PlaceId)
-local Suffix = ".luau"
+local Suffix = ".lua"
 
 local GameScript; if not pcall(function()
     GameScript = HttpGet(game, (Repository .. PlaceId .. Suffix))

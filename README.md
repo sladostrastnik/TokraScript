@@ -1,6 +1,7 @@
 # 🐍 Tokra Script
-**Tokra Script** — the best free script for [Fling Things and People](https://www.roblox.com/games/6961824067/) made by **VF_Owner** and **Sladostrastnik**. It got simple interface, useful features for combat (HvH) and fun. We are planning to keep updating it for a long time.  
-All announcements related to the script will be posted in our discord community server.  
+**Tokra Script** — 「[Fling Things and People](https://www.roblox.com/games/6961824067/)」用の最高の無料スクリプトは、**VF_Owner** と **Sladostrastnik** によって作成されました。 シンプルなインターフェースと、戦闘（HvH）に役立つ機能、そして楽しさを備えています。 長期間にわたり更新し続ける予定です。
+
+スクリプトに関するすべてのお知らせは、当社のDiscordコミュニティサーバーに掲載されます。
 
 
 # 📃 Features

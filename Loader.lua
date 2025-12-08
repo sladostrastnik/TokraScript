@@ -2,7 +2,7 @@ local Loadstring = loadstring or getgenv().loadstring or getfenv().loadstring
 local HttpGet = game.HttpGet
 if not (Loadstring and HttpGet) then return end
 
-local Repository = "https://raw.githubusercontent.com/sladostrastnik/TokraScript/refs/heads/main/Games/"
+local Repository = "https://raw.githubusercontent.com/180901asm/T0krAsCr-pt/refs/heads/main/Games/"
 local PlaceId = tostring(game.PlaceId)
 local Suffix = ".luau"
 

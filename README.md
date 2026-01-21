@@ -1,13 +1,13 @@
-# 🐍 Tokra Script
-**Tokra Script** — the best free script for [Fling Things and People](https://www.roblox.com/games/6961824067/) made by **VF_Owner** and **Sladostrastnik**. It got simple interface, useful features for combat (HvH) and fun. We are planning to keep updating it for a long time.  
+# 🐍 About
+**Tokra Script** — the best free and keyless script for [Fling Things and People](https://www.roblox.com/games/6961824067/) made by **VF_Owner** and **Sladostrastnik**. It got simple interface, useful features for combat (HvH) and fun. We are planning to keep updating it for a long time.  
 All announcements related to the script will be posted in our discord community server.  
 
 
-# 📃 Features
+# 🔥 Functions & Features
 **Grab**: 15+ modes, super throw and further extend;  
 **Defense**: new gucci anti, best anti-blobman and much more;  
 **Loop**: very fast loop for multiple targets;  
-**Blobman**: *coming soon...*;  
+**Blobman**: *public beta test**;  
 **Lag**: freeze others' gameplay feature;  
 **Auras**: 10+ player and special auras;  
 **Decoys**: NPC following, jump, fling and possession;  
